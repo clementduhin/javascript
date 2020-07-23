@@ -1,1 +1,1 @@
-# JS_EXO_forDuhin
+# Exercices en javascript sur la manipulation de données via NodeJS
